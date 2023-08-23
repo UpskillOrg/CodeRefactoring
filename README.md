@@ -19,3 +19,6 @@ Write (or describe) a unit test that ensures the correct FullName is set for an 
 Make as few modifications as possible to the sample code to accommodate your test.
 
 Tools to be used : .NET, C#
+
+
+Code Provided for Refactoring located @ https://github.com/erolabs/CodeRefactoring/blob/master/CodeRefactoring/Refactoring.zip
